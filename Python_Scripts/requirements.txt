@@ -1,0 +1,4 @@
+psycopg2-binary>=2.9
+streamlit>=1.0
+paramiko
+llama-cpp-python
